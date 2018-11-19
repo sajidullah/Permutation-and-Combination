@@ -20,8 +20,7 @@ for i in list(perm):
 #print all combinations of given length 
 from itertools import combinations 
   
-# Get all combinations of [1, 2, 3] 
-# and length 2 
+ 
 comb = combinations([10, 20, 30, 40, 50], 3) 
   
 # Print the obtained combinations 
